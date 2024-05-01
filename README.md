@@ -15,18 +15,18 @@ Para esto se comparan diferentes modelos mediante la accuracy al clasificar un t
 - Python
 - Scikit-learn
 
-### RESULTADOS
-## Multinomial NB con CountVectorizer
+## RESULTADOS
+### Multinomial NB con CountVectorizer
 * Train: 88.27753839354767%
 * Validation: 72.20503756076006%
 * Test: 65.2283590015932%
 
-## Regresion Lineal con CountVectorizer
+### Regresion Lineal con CountVectorizer
 * Train: 91.97878687437853% 
 * Validation: 69.06760936809545%
 * Test: 62.519915029208704% 
 
-## Multinomial NB con TF IDF
+### Multinomial NB con TF IDF
 * Train: 94.49784554192907%
 * Validation: 76.18205921343349%
 * Test: **68.75995751460435% **
