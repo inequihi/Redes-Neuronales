@@ -31,7 +31,7 @@ Para esto se comparan diferentes modelos mediante la accuracy al clasificar un t
 * Validation: 76.18205921343349%
 * Test: **68.75995751460435% **
 
-## Regresion Lineal con TF IDF
+### Regresion Lineal con TF IDF
 * Train: 96.35399403380842%
 * Validation: 74.28192664604506%
 * Test: 66.91449814126395%
