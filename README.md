@@ -1,4 +1,5 @@
 # Trabajo Práctico N1 - Redes Neuronales
+Ines Quihillalt & Bruno Di Sanzo
 
 ## Clasificador de Texto Utilizando Base de Datos The 20 News Groups
 
