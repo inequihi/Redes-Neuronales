@@ -26,7 +26,7 @@ Para esto se comparan diferentes modelos mediante la accuracy al clasificar un t
 * Validation: 69.06760936809545%
 * Test: 62.519915029208704% 
 
-### Multinomial NB con TF IDF
+### Multinomial NB con TF IDF --> MEJOR MODELO
 * Train: 94.49784554192907%
 * Validation: 76.18205921343349%
 * Test: **68.75995751460435% **
